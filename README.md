@@ -9,3 +9,6 @@ A bash script to calculate simple interest given principal, annual rate of inter
 
 ## Output:
 * `simple interest = p*t*r`
+
+
+_© 2022 XYZ, Inc._
